@@ -1,10 +1,11 @@
-# 2019/10/01 内定者勉強会
+# 2019/10/01
+# 内定者勉強会
 
 ---
 
 ### 今日やること😇
 
-## LINE Botをつくろう💪 |
+- LINE Botをつくろう💪 |
 
 ---
 
@@ -28,7 +29,7 @@
 
 ### どんなものを作るの？
 
-- あなたのやるべきことを教えてくれるBot🤗
+- あなたのやるべきことを教えてくれるBot🤗 |
 
 +++
 
@@ -42,15 +43,13 @@
 
 ---
 
-### 1. LINE Botとともだちになる
+### 全体のイメージ
+
+<img src="https://crowi.jcslabs.net/uploads/attachment/5d91998448525b4b3e33564d/4dce076993cf55a04fec408a9650e025.png" style="max-width: 100%;">
 
 +++
 
-- 別途配布するQRコードリーダーでQRコードを読み取って友達登録する
-
----
-
-### 2. スプレッドシートにやりたいことを書く
+### 1. スプレッドシートにやりたいことを書く
 
 +++
 
@@ -67,7 +66,15 @@
 
 ---
 
-### 2. Google App Scriptを開く
+### 2. LINE Botとともだちになる
+
++++
+
+- 別途配布するQRコードリーダーでQRコードを読み取って友達登録する
+
+---
+
+### 3. Google App Scriptを開く
 
 +++
 
@@ -75,19 +82,26 @@
 
 <img src="https://crowi.jcslabs.net/uploads/attachment/5d91998448525b4b3e33564d/2f68c517c1dac56e9bfa6cbb68b0066a.png" style="max-width: 80%;">
 
++++
+
+- 今日はここでプログラミングをします
+  - プログラミングまでもう少し! |
+
 ---
 
-### 3. Google Apps Scriptの場所をLINE Botに教える
+### 4. Google Apps Scriptの場所をLINE Botに教える
 
 +++
 
-- 今回つくるモノのイメージ
-  - LINEとGASの関係図を書く
-    - LINE Botに今回つくるプログラムの場所を教えてあげる必要がある
+- 「公開」 => 「ウェブアプリケーションとして導入...」をクリック
+
+<img src="https://crowi.jcslabs.net/uploads/attachment/5d91998448525b4b3e33564d/03880ba1027b3dedc4f10fbb8c2b301d.png" style="max-width: 80%;">
 
 +++
 
-- 
+- 適当なプロジェクト名を入力してOKをクリック
+
+<img src="https://crowi.jcslabs.net/uploads/attachment/5d91998448525b4b3e33564d/84f6fb9e595a28d5cd8f509fdf380b8a.png" style="max-width: 80%;">
 
 +++
 
