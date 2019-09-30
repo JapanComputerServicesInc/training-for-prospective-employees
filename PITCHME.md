@@ -59,8 +59,7 @@
 
 +++
 
-- A列の一番上から下に向かってやりたいことを書く
-  - 最低3つは書く
+- A列の一番上から下に向かってやりたいことを3つ書く
 
 <img src="https://crowi.jcslabs.net/uploads/attachment/5d91998448525b4b3e33564d/abced4f6160ac7a48b3c8209d8541b5d.png" style="max-width: 80%;">
 
@@ -126,5 +125,43 @@
 
 ### 4. Let's プログラミング！
 - 詳細は別資料で👋 |
+
+```:javascript
+var hoge = 'hogehoge';
+hoge = 'hogehoge';
+hoge = 'hogehoge';
+hoge = 'hogehoge';
+hoge = 'hogehoge';
+hoge = 'hogehoge';
+hoge = 'hogehoge';
+hoge = 'hogehoge';
+hoge = 'hogehoge';
+hoge = 'hogehoge';
+hoge = 'hogehoge';
+hoge = 'hogehoge';
+hoge = 'hogehoge';
+hoge = 'hogehoge';
+hoge = 'hogehoge';
+hoge = 'hogehoge';
+hoge = 'hogehoge';
+hoge = 'hogehoge';
+hoge = 'hogehoge';
+hoge = 'hogehoge';
+hoge = 'hogehoge';
+hoge = 'hogehoge';
+hoge = 'hogehoge';
+hoge = 'hogehoge';
+hoge = 'hogehoge';
+hoge = 'hogehoge';
+hoge = 'hogehoge';
+hoge = 'hogehoge';
+hoge = 'hogehoge';
+hoge = 'hogehoge';
+hoge = 'hogehoge';
+hoge = 'hogehoge';
+hoge = 'hogehoge';
+hoge = 'hogehoge';
+hoge = 'hogehoge';
+```
 
 ---
