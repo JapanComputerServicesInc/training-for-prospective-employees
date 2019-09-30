@@ -105,6 +105,16 @@
 
 +++
 
+- 「アプリケーションにアクセスできるユーザー」を「全員（匿名ユーザーを含む）」にして「導入」をクリック
+
+<img src="https://crowi.jcslabs.net/uploads/attachment/5d91998448525b4b3e33564d/918af5cf2dfb2936026cfb91dfdc9051.png" style="max-width: 80%;">
+
++++
+
+- 「現在のウェブアプリケーションのURL」を教えて下さい
+
+<img src="https://crowi.jcslabs.net/uploads/attachment/5d91998448525b4b3e33564d/7d1d54fd00279b33367bb253d1b76aa3.png" style="max-width: 80%;">
+
 --- 
 
 ### 4. Let's プログラミング！
