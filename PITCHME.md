@@ -65,7 +65,7 @@
 
 +++
 
-- D1のセルに `= TEXTJOIN("、",TRUE,A:A)` と入力する
+- D1のセルに 「`= TEXTJOIN("、",TRUE,A:A)`」 と入力する
   - A列に書いたやりたいことがカンマ（、）区切りで表示される |
 
 <img src="https://crowi.jcslabs.net/uploads/attachment/5d9235ff48525b4b3e335658/e9af860aa52e7b9c3c945830c75b686f.png" style="max-width: 80%;">
@@ -123,7 +123,7 @@
 
 --- 
 
-### 4. Let's プログラミング！
+### . Let's プログラミング！
 - 詳細は別資料で👋 |
 
 ---
