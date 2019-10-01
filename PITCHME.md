@@ -34,8 +34,8 @@
 +++
 
 1. やりたいことをあらかじめいくつか登録しておく
-2. Botに「今日何すればいい？」と質問する |
-3. 1.で書いたやりたいことのいずれかをBotが返してくれる |
+2. Botに「今日何すればいい？」と質問する
+3. 1.で書いたやりたいことのいずれかをBotが返してくれる
 
 ---
 
@@ -125,43 +125,5 @@
 
 ### 4. Let's プログラミング！
 - 詳細は別資料で👋 |
-
-```:javascript
-var hoge = 'hogehoge';
-hoge = 'hogehoge';
-hoge = 'hogehoge';
-hoge = 'hogehoge';
-hoge = 'hogehoge';
-hoge = 'hogehoge';
-hoge = 'hogehoge';
-hoge = 'hogehoge';
-hoge = 'hogehoge';
-hoge = 'hogehoge';
-hoge = 'hogehoge';
-hoge = 'hogehoge';
-hoge = 'hogehoge';
-hoge = 'hogehoge';
-hoge = 'hogehoge';
-hoge = 'hogehoge';
-hoge = 'hogehoge';
-hoge = 'hogehoge';
-hoge = 'hogehoge';
-hoge = 'hogehoge';
-hoge = 'hogehoge';
-hoge = 'hogehoge';
-hoge = 'hogehoge';
-hoge = 'hogehoge';
-hoge = 'hogehoge';
-hoge = 'hogehoge';
-hoge = 'hogehoge';
-hoge = 'hogehoge';
-hoge = 'hogehoge';
-hoge = 'hogehoge';
-hoge = 'hogehoge';
-hoge = 'hogehoge';
-hoge = 'hogehoge';
-hoge = 'hogehoge';
-hoge = 'hogehoge';
-```
 
 ---
