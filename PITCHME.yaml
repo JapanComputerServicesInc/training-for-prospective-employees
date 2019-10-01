@@ -40,8 +40,8 @@ layout : center
 # Twitter Card Settings
 # Doc: https://gitpitch.com/docs/settings/twitter-card
 #
-title : "GitPitch - The Markdown Presentation Service on Git"
-description : "Modern Slide Decks for Developers on Linux, OSX, Windows 10. Present offline. Share online. Export to PPTX and PDF."
+title : "2019/10/01 JCS内定者研修 - LINE Botをつくろう！"
+description : "Google Apps Scriptを使って、簡単なLINE Botをつくる研修"
 # thumbnail : assets/img/thumbnail.png
 
 #
