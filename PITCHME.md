@@ -113,7 +113,7 @@
 
 - 「Who has access to the app:」を「Anyone, even anonymous」にして「導入」をクリック
 
-<img src="https://i.imgur.com/7GLDUAc.png" style="max-width: 70%;">
+<img src="https://i.imgur.com/7GLDUAc.png" style="max-width: 60%;">
 
 +++
 
