@@ -1,4 +1,4 @@
-# 2020/02/05
+# 2020/08/05
 ## インターンシップ
 
 ---
@@ -39,7 +39,7 @@
 
 ---
 
-# やってみよう！
+## やってみよう！
 
 ---
 
@@ -65,8 +65,8 @@
 
 +++
 
-- D1のセルに 「`= TEXTJOIN("、",TRUE,A:A)`」 と入力する
-  - A列に書いたやりたいことがカンマ（、）区切りで表示される |
+- D1のセルに 「`=TEXTJOIN("、",TRUE,A:A)`」 と入力する
+  - A列に書いたやりたいことが読点（、）区切りで表示される |
 
 <img src="https://crowi.jcslabs.net/uploads/attachment/5d9235ff48525b4b3e335658/e9af860aa52e7b9c3c945830c75b686f.png" style="max-width: 80%;">
 
@@ -111,15 +111,15 @@
 
 +++
 
-- 「アプリケーションにアクセスできるユーザー」を「全員（匿名ユーザーを含む）」にして「導入」をクリック
+- 「Who has access to the app:」を「Anyone, even anonymous」にして「導入」をクリック
 
-<img src="https://crowi.jcslabs.net/uploads/attachment/5d91998448525b4b3e33564d/918af5cf2dfb2936026cfb91dfdc9051.png" style="max-width: 80%;">
+<img src="https://i.imgur.com/7GLDUAc.png" style="max-width: 80%;">
 
 +++
 
-- 「現在のウェブアプリケーションのURL」を教えて下さい
+- 「Current web app URL」を教えて下さい
 
-<img src="https://crowi.jcslabs.net/uploads/attachment/5d91998448525b4b3e33564d/7d1d54fd00279b33367bb253d1b76aa3.png" style="max-width: 80%;">
+<img src="https://i.imgur.com/6lMuv6k.png" style="max-width: 80%;">
 
 --- 
 
