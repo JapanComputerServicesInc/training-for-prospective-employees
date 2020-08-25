@@ -40,7 +40,7 @@ layout : center
 # Twitter Card Settings
 # Doc: https://gitpitch.com/docs/settings/twitter-card
 #
-title : "2019/10/01 JCS内定者研修 - LINE Botをつくろう！"
+title : "LINE Botをつくろう！"
 description : "Google Apps Scriptを使って、簡単なLINE Botをつくる研修"
 # thumbnail : assets/img/thumbnail.png
 
@@ -48,7 +48,7 @@ description : "Google Apps Scriptを使って、簡単なLINE Botをつくる研
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "2019/10/01 JCS内定者研修"
+footnote : "JCS研修"
 
 #
 # Published Setting
