@@ -51,7 +51,7 @@
 
 ### Glitchってなに？
 
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/18ed1669-bc7a-4763-bdca-9312c2e97714/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200928%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200928T053057Z&X-Amz-Expires=86400&X-Amz-Signature=ee27c47ca8ebc1788a0ccb0142eae80983773d90da8b56594494c131940ce322&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22" style="max-width: 50%;">
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/18ed1669-bc7a-4763-bdca-9312c2e97714/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200928%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200928T053057Z&X-Amz-Expires=86400&X-Amz-Signature=ee27c47ca8ebc1788a0ccb0142eae80983773d90da8b56594494c131940ce322&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22" style="max-height: 25%;">
 
 - 面倒な環境構築が不要
 - ブラウザで簡単にWebアプリを作れるサービス
