@@ -1,5 +1,5 @@
-# 2020/09/17
-## インターンシップ
+# 2020/10/01
+## 内定者研修
 
 ---
 
@@ -45,38 +45,13 @@
 
 ### 全体のイメージ
 
-<img src="https://crowi.jcslabs.net/uploads/attachment/5d91998448525b4b3e33564d/4dce076993cf55a04fec408a9650e025.png" style="max-width: 100%;">
+<img src="https://crowi.jcsla bs.net/uploads/attachment/5d91998448525b4b3e33564d/4dce076993cf55a04fec408a9650e025.png" style="max-width: 100%;">
 
 ---
 
 ## やってみよう！
 
----
-
-### 1. スプレッドシートにやりたいことを書く
-
-+++
-
-- 「スプレッドシート」と検索して、一番上に出てきたリンクをクリック
-
-<img src="https://crowi.jcslabs.net/uploads/attachment/5d91998448525b4b3e33564d/7ab595b5f24fa56a4d4221dd21690912.png" style="max-width: 80%;">
-
-+++
-
-- A列の一番上から下に向かってやりたいことを3つ書く
-
-<img src="https://crowi.jcslabs.net/uploads/attachment/5d91998448525b4b3e33564d/abced4f6160ac7a48b3c8209d8541b5d.png" style="max-width: 80%;">
-
-+++
-
-- D1のセルに 「`=TEXTJOIN("、",TRUE,A:A)`」 と入力する
-  - A列に書いたやりたいことが読点（、）区切りで表示される |
-
-<img src="https://crowi.jcslabs.net/uploads/attachment/5d9235ff48525b4b3e335658/e9af860aa52e7b9c3c945830c75b686f.png" style="max-width: 80%;">
-
----
-
-### 2. LINE Botとともだちになる
+### 1. LINE Botとともだちになる
 
 +++
 
@@ -84,48 +59,16 @@
 
 ---
 
-### 3. Google Apps Scriptを開く
+### 2. やりたいことを書く
 
 +++
 
-- 「ツール」 => 「スクリプトエディタ」をクリック
 
-<img src="https://crowi.jcslabs.net/uploads/attachment/5d91998448525b4b3e33564d/2f68c517c1dac56e9bfa6cbb68b0066a.png" style="max-width: 80%;">
 
 +++
 
 - 今日はここでプログラミングをします
   - プログラミングまでもう少し! |
-
----
-
-### 4. Google Apps Scriptの場所をLINE Botに教える
-
-+++
-
-- 「公開」 => 「ウェブアプリケーションとして導入...」をクリック
-
-<img src="https://crowi.jcslabs.net/uploads/attachment/5d91998448525b4b3e33564d/03880ba1027b3dedc4f10fbb8c2b301d.png" style="max-width: 80%;">
-
-+++
-
-- 適当なプロジェクト名を入力してOKをクリック
-
-<img src="https://crowi.jcslabs.net/uploads/attachment/5d91998448525b4b3e33564d/84f6fb9e595a28d5cd8f509fdf380b8a.png" style="max-width: 80%;">
-
-+++
-
-- 「Who has access to the app:」を「Anyone, even anonymous」にして「Deploy」をクリック
-
-<img src="https://i.imgur.com/7GLDUAc.png" style="max-width: 60%;">
-
-+++
-
-- 「Current web app URL」を教えて下さい
-
-<img src="https://i.imgur.com/6lMuv6k.png" style="max-width: 80%;">
-
---- 
 
 ### . Let's プログラミング！
 - 詳細は別資料で👋 |
