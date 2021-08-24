@@ -1,7 +1,7 @@
 {
   "name": "training-for-prospective-employees-reveal",
   "version": "1.0.0",
-  "description": "内定者研修用Gitpitchリポジトリaaaaa",
+  "description": "内定者研修用Gitpitchリポジトリ",
   "main": "index.js",
   "dependencies": {
     "reveal-md": "^5.1.3"
