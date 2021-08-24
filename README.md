@@ -14,7 +14,7 @@
 3. ローカルのスライド実行環境を起動
     ```
     # リポジトリのルートディレクトリにて
-    $ npm run reveal PITCHME.md -- -w
+    $ npm run local
     ```
 
 ## スライド公開方法
@@ -29,6 +29,6 @@
 1. PITCH.mdを何らか修正する
 2. PITCH.mdの修正内容を静的ファイルに出力する
 ```
-$ npm run reveal PITCHME.md -- --static docs
+$ npm run build
 ```
 3. commit及びpushする

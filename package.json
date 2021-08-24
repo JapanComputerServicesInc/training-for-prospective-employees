@@ -9,7 +9,8 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "reveal": "reveal-md"
+    "local": "reveal-md PITCHME.md -w",
+    "build": "reveal-md PITCHME.md --static docs"
   },
   "repository": {
     "type": "git",
