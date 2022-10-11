@@ -3,14 +3,12 @@
   "version": "1.0.0",
   "description": "内定者研修用Gitpitchリポジトリ",
   "main": "index.js",
-  "dependencies": {
-    "reveal-md": "^5.1.3"
-  },
-  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "local": "reveal-md PITCHME.md -w",
     "build": "reveal-md PITCHME.md --static docs"
+  },
+  "dependencies": {
+    "reveal-md": "^5.3.4"
   },
   "repository": {
     "type": "git",

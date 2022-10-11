@@ -27,6 +27,7 @@ https://japancomputerservicesinc.github.io/training-for-prospective-employees/#/
     # リポジトリのルートディレクトリにて
     $ npm i
     ```
+    ※警告が表示されても無視してください
 4. ローカルのスライド実行環境を起動
     ```
     # リポジトリのルートディレクトリにて
