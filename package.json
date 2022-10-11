@@ -1,0 +1,23 @@
+{
+  "name": "training-for-prospective-employees-reveal",
+  "version": "1.0.0",
+  "description": "内定者研修用Gitpitchリポジトリ",
+  "main": "index.js",
+  "scripts": {
+    "local": "reveal-md PITCHME.md -w",
+    "build": "reveal-md PITCHME.md --static docs"
+  },
+  "dependencies": {
+    "reveal-md": "^5.3.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JapanComputerServicesInc/training-for-prospective-employees.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JapanComputerServicesInc/training-for-prospective-employees/issues"
+  },
+  "homepage": "https://github.com/JapanComputerServicesInc/training-for-prospective-employees#readme"
+}
