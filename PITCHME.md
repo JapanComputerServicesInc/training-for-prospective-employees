@@ -96,9 +96,10 @@ title: "LINE Botをつくろう!"
 
 1. 別途配布する資料からGlitchのPJにアクセスする(アカウントがあればログイン頂いても構いません)
 2. Request to Join のボタンを押してPJへの参加を要求する
-3. 承認後、画面が切り替わらない場合はリロードする
 
 <img src="./images/glitch-request-to-join.png" class="r-stretch">
+
+3. 承認後、画面が切り替わらない場合はリロードする
 
 ---
 
