@@ -37,16 +37,17 @@ https://japancomputerservicesinc.github.io/training-for-prospective-employees/#/
 
 ## スライド編集方法
 
-1. 上記閲覧方法を行う
-2. 新規ブランチを作成する
+1. 前提事項
+    - ローカル環境構築が完了して、スライドが表示できる状態にしてください
+2. 最新の日付のブランチから新規ブランチを作成する
     - ブランチ名は `研修日(YYYYMMDD)` とする
         - 例: 2022/10/01の内定者研修の場合は `20221001`
-3. PITCH.mdを修正する
-4. PITCH.mdの修正内容を静的ファイルに出力する
+5. PITCH.mdを修正する
+6. PITCH.mdの修正内容を静的ファイルに出力する
     ```
     $ npm run build
     ```
-5. commit及びpushする
+7. commit及びpushする
 
 ## スライド公開方法
 
