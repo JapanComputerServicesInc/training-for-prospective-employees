@@ -54,16 +54,6 @@ title: "LINE Botをつくろう!"
 
 ---
 
-### Glitchってなに？
-
-<img src="./images/glitch-logo.png" style="width: 200px">
-
-- ブラウザで簡単にWebアプリを作れるサービス
-- 面倒な環境構築が不要
-- 今日はGlitch上でプログラミングします！！
-
----
-
 ## やってみよう！
 
 ----
