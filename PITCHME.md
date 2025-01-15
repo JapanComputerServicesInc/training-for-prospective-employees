@@ -4,7 +4,6 @@ title: "LINE Botをつくろう!"
 
 
 # JCSインターン研修
-## 2024年
 
 ---
 
@@ -22,7 +21,7 @@ title: "LINE Botをつくろう!"
 
 ### 例えば
 
-- [LINEで使えるチャットボット15選。トーク画面でピザ注文や再配達依頼ができる！](https://mag.app-liv.jp/archive/64844)
+- [三鷹市　ゴミ分別案内チャットBOT](https://www.city.mitaka.lg.jp/chatbot/gomi.html)
 
 ---
 
